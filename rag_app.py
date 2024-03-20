@@ -1,4 +1,4 @@
-%%writefile rag_app.py
+# %%writefile rag_app.py
 
 from langchain.llms import LlamaCpp
 from langchain.vectorstores import FAISS
