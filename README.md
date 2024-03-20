@@ -16,7 +16,7 @@ RAG combines information retrieval with language models and improves the ability
 After exploring LLMs, chatbots, and RAG, I now try to put them all together to create a powerful tool: a RAG chain with memory. To this end, I will use the `ConversationalRetrievalChain`, a LangChain chain for RAG with memory. [Code here](https://github.com/sumitdeole/llm_from_rag_to_chatbots/blob/main/code/4_rag_chatbot.ipynb)
 
 
-I'll install two libraries: Langchain and Llama.cpp. 
+To do the above tasks, I've install two libraries: Langchain and Llama.cpp. 
 
 **LangChain** is a framework that simplifies the development of applications powered by large language models (LLMs)
 
